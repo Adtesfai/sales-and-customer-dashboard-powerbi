@@ -2,7 +2,10 @@
 
 ## Project Overview
 This project analyzes sales performance and customer behavior using Power BI.
-Customer_Insights_dashboard.png
+![Sales Dashboard](sales-dashboard.png)
+
+![Customer Dashboard](customer-Insights_dashboard.png)
+
 
 ## Objectives
 - Track revenue trends
